@@ -1,0 +1,15 @@
+{
+  "name": "opensearch-nodejs-dive-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "search.js",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "@aws-sdk/credential-provider-node": "^3.218.0",
+    "@opensearch-project/opensearch": "^2.0.0",
+    "aws4": "^1.11.0",
+    "dotenv": "^10.0.0"
+  }
+}
